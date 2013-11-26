@@ -31,6 +31,6 @@ class janus {
     cwd         => $vimdir,
     environment => [
       "HOME=${home}",
-    ],
+    ]
   }
 }
